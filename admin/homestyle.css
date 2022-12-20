@@ -1,0 +1,129 @@
+body{
+    background-color:#17191c;
+    color:white;
+    font-family:monospace;
+}
+
+.navbar{
+    position:absolute;
+    top:0px;
+    left:0px;
+    background-color:#2a2e33;
+    margin:auto;
+    text-align:center;
+    height:75px;
+    width:100%;
+}
+
+.logo{
+    font-size:30px;
+    float:left;
+    position:relative;
+    left:100px;
+    bottom:10px;
+}
+
+.header-buttons{
+    position:relative;
+    text-align:center;
+    margin:auto;
+    right:5%;
+    top:20px;
+    font-size:25px;
+}
+
+.header-button{
+    position:relative;
+    outline:none;
+    color:white;
+    text-decoration:none;
+    margin:10px;
+}
+
+.posts{ 
+    position:relative;
+    text-align:center;
+    margin:auto;
+    width:250px;
+    height:150px;
+    top:250px;
+    background-color:#2a2e33;
+    border-radius:7px;
+}
+
+.post-title{ 
+    position:relative;
+    top:25px;
+    font-size:25px;
+}
+
+.info{ 
+    position:relative;
+    text-align:center;
+    font-size:25px;
+    top:300px;
+}
+
+.posts-published{ 
+    width:700px;
+    height:75px;
+    position:relative;
+    text-align:center;
+    margin:20px;
+    top:350px;
+    left:30%;
+    background-color:#2a2e33;
+    border-radius:7px;
+}
+
+.posts-published-info{ 
+    position:relative;
+    text-align:center;
+    float:left;
+    left:80px;
+    top:5px;
+    margin:20px;
+    font-size:20px;
+    
+}
+
+
+.upload-panel{ 
+    position:relative;
+    text-align:center;
+    margin:auto;
+    width:800px;
+    height:400px;
+    background-color:#2a2e33;
+    top:250px;
+    border-radius:7px;
+}
+
+.upload-input{ 
+    position:relative;
+    text-align:center;
+    margin:10px;
+    width:500px;
+    height:50px;
+    font-size:25px;
+    font-family:monospace;
+    top:50px;
+}
+
+.input-button{
+    background-color:#0d6efd;
+    border-radius:15px;
+    color:white;
+}
+.posted{
+    font-size:25px;
+    color:green;
+    position:relative;
+    top:40px;
+}
+.something-wrong{
+    font-size:25px;
+    color:red;
+    position:relative;
+    top:40px;
+}
